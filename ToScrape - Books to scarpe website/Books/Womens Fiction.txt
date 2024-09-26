@@ -1,0 +1,71 @@
+ Categeory: Womens Fiction
+
+---------------------------------
+Name : I Had a Nice ...
+Price : £57.36
+Status : In stock
+---------------------------------
+Name : Will You Won't You ...
+Price : £13.86
+Status : In stock
+---------------------------------
+Name : Keep Me Posted
+Price : £20.46
+Status : In stock
+---------------------------------
+Name : Grey (Fifty Shades #4)
+Price : £48.49
+Status : In stock
+---------------------------------
+Name : Meternity
+Price : £43.58
+Status : In stock
+---------------------------------
+Name : Some Women
+Price : £13.73
+Status : In stock
+---------------------------------
+Name : Shopaholic Ties the Knot ...
+Price : £48.39
+Status : In stock
+---------------------------------
+Name : Can You Keep a ...
+Price : £21.94
+Status : In stock
+---------------------------------
+Name : Twenties Girl
+Price : £42.80
+Status : In stock
+---------------------------------
+Name : The Undomestic Goddess
+Price : £45.75
+Status : In stock
+---------------------------------
+Name : The Nanny Diaries (Nanny ...
+Price : £52.53
+Status : In stock
+---------------------------------
+Name : The Devil Wears Prada ...
+Price : £44.29
+Status : In stock
+---------------------------------
+Name : Something Borrowed (Darcy & ...
+Price : £48.96
+Status : In stock
+---------------------------------
+Name : Something Blue (Darcy & ...
+Price : £54.62
+Status : In stock
+---------------------------------
+Name : I've Got Your Number
+Price : £19.69
+Status : In stock
+---------------------------------
+Name : The Edge of Reason ...
+Price : £19.18
+Status : In stock
+---------------------------------
+Name : Bridget Jones's Diary (Bridget ...
+Price : £29.82
+Status : In stock
+---------------------------------

@@ -1,0 +1,219 @@
+ Categeory: Young Adult
+
+---------------------------------
+Name : The Requiem Red
+Price : £22.65
+Status : In stock
+---------------------------------
+Name : Set Me Free
+Price : £17.46
+Status : In stock
+---------------------------------
+Name : The Natural History of ...
+Price : £45.22
+Status : In stock
+---------------------------------
+Name : Obsidian (Lux #1)
+Price : £14.86
+Status : In stock
+---------------------------------
+Name : Burning
+Price : £28.81
+Status : In stock
+---------------------------------
+Name : A Fierce and Subtle ...
+Price : £28.13
+Status : In stock
+---------------------------------
+Name : Scarlett Epstein Hates It ...
+Price : £43.55
+Status : In stock
+---------------------------------
+Name : Nightingale, Sing
+Price : £38.28
+Status : In stock
+---------------------------------
+Name : Library of Souls (Miss ...
+Price : £48.56
+Status : In stock
+---------------------------------
+Name : Frostbite (Vampire Academy #2)
+Price : £29.99
+Status : In stock
+---------------------------------
+Name : Wild Swans
+Price : £14.36
+Status : In stock
+---------------------------------
+Name : Until Friday Night (The ...
+Price : £46.31
+Status : In stock
+---------------------------------
+Name : This Is Where It ...
+Price : £27.12
+Status : In stock
+---------------------------------
+Name : The Darkest Lie
+Price : £35.35
+Status : In stock
+---------------------------------
+Name : My Kind of Crazy
+Price : £40.36
+Status : In stock
+---------------------------------
+Name : Don't Get Caught
+Price : £55.35
+Status : In stock
+---------------------------------
+Name : Catching Jordan (Hundred Oaks)
+Price : £50.83
+Status : In stock
+---------------------------------
+Name : Aristotle and Dante Discover ...
+Price : £58.14
+Status : In stock
+---------------------------------
+Name : The Epidemic (The Program ...
+Price : £14.44
+Status : In stock
+---------------------------------
+Name : Stars Above (The Lunar ...
+Price : £48.05
+Status : In stock
+---------------------------------
+Name : No Love Allowed (Dodge ...
+Price : £54.65
+Status : In stock
+---------------------------------
+Name : Exit, Pursued by a ...
+Price : £51.34
+Status : In stock
+---------------------------------
+Name : The Alien Club
+Price : £54.40
+Status : In stock
+---------------------------------
+Name : Don't Forget Steven
+Price : £33.23
+Status : In stock
+---------------------------------
+Name : South of Sunshine
+Price : £28.93
+Status : In stock
+---------------------------------
+Name : My Life Next Door ...
+Price : £36.39
+Status : In stock
+---------------------------------
+Name : Future Shock (Future Shock ...
+Price : £55.65
+Status : In stock
+---------------------------------
+Name : Nightstruck: A Novel
+Price : £50.35
+Status : In stock
+---------------------------------
+Name : Tell the Wolves I'm ...
+Price : £50.96
+Status : In stock
+---------------------------------
+Name : Will Grayson, Will Grayson ...
+Price : £47.31
+Status : In stock
+---------------------------------
+Name : Where She Went (If ...
+Price : £41.73
+Status : In stock
+---------------------------------
+Name : Two Summers
+Price : £14.64
+Status : In stock
+---------------------------------
+Name : The Darkest Corners
+Price : £11.33
+Status : In stock
+---------------------------------
+Name : Tell Me Three Things
+Price : £41.81
+Status : In stock
+---------------------------------
+Name : Lola and the Boy ...
+Price : £23.63
+Status : In stock
+---------------------------------
+Name : Kill the Boy Band
+Price : £15.52
+Status : In stock
+---------------------------------
+Name : Isla and the Happily ...
+Price : £48.13
+Status : In stock
+---------------------------------
+Name : An Abundance of Katherines
+Price : £10.00
+Status : In stock
+---------------------------------
+Name : Harry Potter and the ...
+Price : £24.17
+Status : In stock
+---------------------------------
+Name : Walk the Edge (Thunder ...
+Price : £32.36
+Status : In stock
+---------------------------------
+Name : Two Boys Kissing
+Price : £32.74
+Status : In stock
+---------------------------------
+Name : The New Guy (and ...
+Price : £44.92
+Status : In stock
+---------------------------------
+Name : The Land of 10,000 ...
+Price : £29.64
+Status : In stock
+---------------------------------
+Name : Scarlet (The Lunar Chronicles ...
+Price : £14.57
+Status : In stock
+---------------------------------
+Name : Legend (Legend #1)
+Price : £43.69
+Status : In stock
+---------------------------------
+Name : Lady Renegades (Rebel Belle ...
+Price : £53.04
+Status : In stock
+---------------------------------
+Name : Golden (Heart of Dread ...
+Price : £42.21
+Status : In stock
+---------------------------------
+Name : Cinder (The Lunar Chronicles ...
+Price : £26.09
+Status : In stock
+---------------------------------
+Name : Boy Meets Boy
+Price : £21.12
+Status : In stock
+---------------------------------
+Name : Annie on My Mind
+Price : £36.83
+Status : In stock
+---------------------------------
+Name : New Moon (Twilight #2)
+Price : £12.86
+Status : In stock
+---------------------------------
+Name : Girl Online On Tour ...
+Price : £53.47
+Status : In stock
+---------------------------------
+Name : The Haters
+Price : £27.89
+Status : In stock
+---------------------------------
+Name : The Art of Not ...
+Price : £40.83
+Status : In stock
+---------------------------------

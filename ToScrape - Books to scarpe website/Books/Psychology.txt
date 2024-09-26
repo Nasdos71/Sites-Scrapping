@@ -1,0 +1,31 @@
+ Categeory: Psychology
+
+---------------------------------
+Name : The Lucifer Effect: Understanding ...
+Price : £10.40
+Status : In stock
+---------------------------------
+Name : The Golden Condom: And ...
+Price : £39.43
+Status : In stock
+---------------------------------
+Name : It Didn't Start with ...
+Price : £56.27
+Status : In stock
+---------------------------------
+Name : An Unquiet Mind: A ...
+Price : £21.30
+Status : In stock
+---------------------------------
+Name : Thinking, Fast and Slow
+Price : £21.14
+Status : In stock
+---------------------------------
+Name : Civilization and Its Discontents
+Price : £59.95
+Status : In stock
+---------------------------------
+Name : 8 Keys to Mental ...
+Price : £31.04
+Status : In stock
+---------------------------------

@@ -1,0 +1,47 @@
+ Categeory: Philosophy
+
+---------------------------------
+Name : Sophie's World
+Price : £15.94
+Status : In stock
+---------------------------------
+Name : The Death of Humanity: ...
+Price : £58.11
+Status : In stock
+---------------------------------
+Name : The Stranger
+Price : £17.44
+Status : In stock
+---------------------------------
+Name : Proofs of God: Classical ...
+Price : £54.21
+Status : In stock
+---------------------------------
+Name : Kierkegaard: A Christian Missionary ...
+Price : £47.13
+Status : In stock
+---------------------------------
+Name : At The Existentialist Café: ...
+Price : £29.93
+Status : In stock
+---------------------------------
+Name : Critique of Pure Reason
+Price : £20.75
+Status : In stock
+---------------------------------
+Name : Run, Spot, Run: The ...
+Price : £20.02
+Status : In stock
+---------------------------------
+Name : The Nicomachean Ethics
+Price : £36.34
+Status : In stock
+---------------------------------
+Name : Meditations
+Price : £25.89
+Status : In stock
+---------------------------------
+Name : Beyond Good and Evil
+Price : £43.38
+Status : In stock
+---------------------------------

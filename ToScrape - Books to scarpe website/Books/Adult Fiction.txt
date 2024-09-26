@@ -1,0 +1,7 @@
+ Categeory: Adult Fiction
+
+---------------------------------
+Name : Fifty Shades Freed (Fifty ...
+Price : £15.36
+Status : In stock
+---------------------------------

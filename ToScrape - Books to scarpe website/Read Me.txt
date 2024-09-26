@@ -1,0 +1,25 @@
+First the scrapper to get data from "books to scrape" site, which uses SELENIUM, and saves them in a Books Folder.
+
+2nd the Exceler, uses OPENPYXL to filter the data from the txts and make an Excel in the Data Excel Folder.
+				(idr which saves to data excel, 2nd or 3rd, just excuete in order)
+3rd the Filler, which uses RANDOM to make some fileds as the data from the website was minimal, in the data excel folder
+
+
+4th Cleaner which uses Pandas in a Jupyter Notebook, this code isnt organaised you gotta read most of it to get the methodes,
+Finally it outputs 3 excels in Output Excels:
+
+1-Cleaned_data: all data + Authors Summary + books summary (sheets)
+
+2-Authors summary: authors, total income, total no of books, contribution
+
+3-Books Summary: categories, category revenue, total books, contribution.
+
+
+Done boom boom.
+
+used libs:
+Selenium
+os
+pandas
+openpyxl
+random
